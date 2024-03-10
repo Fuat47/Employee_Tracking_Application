@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "Name": "jeson",
+    "Surname": "skript",
+    "Phone": "",
+    "Address": "",
+    "DepartmentId": -1,
+    "StartDate": "2024-03-09T15:15:27.6197224+03:00",
+    "NumOfChildren": 0,
+    "isMilitartServiceDone": false,
+    "isForeingLanguage": false,
+    "ohsStatus": false,
+    "masteryStatus": false
+  },
+  {
+    "Id": 2,
+    "Name": "jeson",
+    "Surname": "skript2",
+    "Phone": "",
+    "Address": "",
+    "DepartmentId": -1,
+    "StartDate": "2024-03-09T15:15:27.6197224+03:00",
+    "NumOfChildren": 0,
+    "isMilitartServiceDone": false,
+    "isForeingLanguage": false,
+    "ohsStatus": false,
+    "masteryStatus": false
+  }
+]
